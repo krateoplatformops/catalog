@@ -53,11 +53,12 @@
       "secret": [
         {
           "type": "string",
-          "key": "accountId"
+          "name": "credentials",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
           "type": "string",
-          "key": "accountPassword"
+          "name": "accountPassword"
         }
       ]
     },
