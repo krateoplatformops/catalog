@@ -79,7 +79,7 @@
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/github.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "0.3.5",
-      "source": "https://github.com/krateoplatformops/provider-git",
+      "source": "https://github.com/krateoplatformops/provider-github",
       "cli": false
     },
     {
