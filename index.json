@@ -42,7 +42,7 @@
     },
     {
       "image": "xpkg.upbound.io/crossplane/provider-aws",
-      "name": "provider aws",
+      "name": "crossplane provider aws",
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/aws.svg",
       "maintainer": "",
