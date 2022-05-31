@@ -6,7 +6,7 @@
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/helm.svg",
       "maintainer": "",
-      "version": "0.0.1",
+      "version": "v0.10.0",
       "source": "https://github.com/crossplane-contrib/provider-helm",
       "cli": true
     },
@@ -26,7 +26,7 @@
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/git.svg",
       "maintainer": "",
-      "version": "v0.2.0",
+      "version": "v0.3.6",
       "source": "https://github.com/krateoplatformops/provider-git",
       "cli": true
     },
@@ -46,7 +46,7 @@
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/aws.svg",
       "maintainer": "",
-      "version": "0.0.1",
+      "version": "v0.27.0",
       "source": "https://github.com/crossplane/provider-aws",
       "cli": false,
       "package": "https://github.com/krateoplatformops/krateo-template-aws-stack/blob/main/defaults/package.yaml",
@@ -78,7 +78,7 @@
       "description": "",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/github.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "0.3.5",
+      "version": "0.1.8",
       "source": "https://github.com/krateoplatformops/provider-github",
       "cli": false
     },
