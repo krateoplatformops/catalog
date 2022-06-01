@@ -4,8 +4,6 @@ metadata:
   name: provider-git
 spec:
   package: ghcr.io/krateoplatformops/provider-git:VERSION
-  packagePullPolicy: Always
-  packagePullSecrets:
-    - name: cr-token
+  packagePullPolicy: IfNotPresent
   controllerConfigRef:
     name: controller-config
