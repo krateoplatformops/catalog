@@ -31,7 +31,7 @@
       "version": "v0.3.6",
       "source": "https://github.com/krateoplatformops/provider-git",
       "cli": true,
-      "package": "https://raw.githubusercontent.com/krateoplatformops/provider-git/main/examples/provider.yaml"
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/crossplane-provider-git.yaml"
     },
     {
       "image": "ghcr.io/krateoplatformops/provider-argocd-token",

@@ -1,0 +1,11 @@
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-git
+spec:
+  package: ghcr.io/krateoplatformops/provider-git:VERSION
+  packagePullPolicy: Always
+  packagePullSecrets:
+    - name: cr-token
+  controllerConfigRef:
+    name: controller-config
