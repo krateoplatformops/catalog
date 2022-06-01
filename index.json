@@ -8,7 +8,8 @@
       "maintainer": "",
       "version": "v0.10.0",
       "source": "https://github.com/crossplane-contrib/provider-helm",
-      "cli": true
+      "cli": true,
+      "package": ""
     },
     {
       "image": "registry.upbound.io/crossplane/provider-kubernetes",
