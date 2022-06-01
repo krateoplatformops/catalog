@@ -53,7 +53,7 @@
       "version": "v0.27.0",
       "source": "https://github.com/crossplane/provider-aws",
       "cli": false,
-      "package": "https://raw.githubusercontent.com/crossplane-contrib/provider-aws/master/examples/provider.yaml",
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/crossplane-provider-aws.yaml",
       "secret": [
         {
           "type": "string",
