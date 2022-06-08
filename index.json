@@ -96,7 +96,7 @@
       "version": "v0.1.2",
       "source": "https://github.com/krateoplatformops/provider-bitbucket",
       "cli": false,
-      "package": "https://raw.githubusercontent.com/krateoplatformops/provider-bitbucket/main/examples/provider.yaml"
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-bitbucket.yaml"
     }
   ]
 }

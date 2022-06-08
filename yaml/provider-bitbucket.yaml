@@ -1,7 +1,7 @@
 apiVersion: pkg.crossplane.io/v1
 kind: Provider
 metadata:
-  name: provider-git
+  name: provider-bitbucket
 spec:
-  package: ghcr.io/krateoplatformops/provider-git:VERSION
+  package: "ghcr.io/krateoplatformops/provider-bitbucket:VERSION"
   packagePullPolicy: IfNotPresent

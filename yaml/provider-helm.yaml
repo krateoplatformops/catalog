@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: provider-aws
 spec:
-  package: crossplane/provider-helm:v0.10.0
+  package: crossplane/provider-helm:VERSION
