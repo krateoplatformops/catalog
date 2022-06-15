@@ -78,7 +78,7 @@
     },
     {
       "image": "ghcr.io/krateoplatformops/provider-github",
-      "name": "provider github",
+      "name": "krateo provider github",
       "description": "",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/github.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
