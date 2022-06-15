@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: provider-aws
 spec:
-  package: crossplane/provider-aws:VERSION
+  package: registry.upbound.io/crossplane/provider-aws:VERSION
