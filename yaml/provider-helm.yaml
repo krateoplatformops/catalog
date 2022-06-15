@@ -1,6 +1,6 @@
 apiVersion: pkg.crossplane.io/v1
 kind: Provider
 metadata:
-  name: provider-aws
+  name: provider-helm
 spec:
-  package: crossplane/provider-helm:VERSION
+  package: registry.upbound.io/crossplane/provider-helm:VERSION
