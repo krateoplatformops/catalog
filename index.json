@@ -50,7 +50,7 @@
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/aws.svg",
       "maintainer": "",
-      "version": "v0.27.0",
+      "version": "v0.27.1",
       "source": "https://github.com/crossplane/provider-aws",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-aws.yaml",
