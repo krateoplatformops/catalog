@@ -1,0 +1,7 @@
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-openstack
+spec:
+  package: ghcr.io/krateoplatformops/provider-openstack:VERSION
+  packagePullPolicy: IfNotPresent
