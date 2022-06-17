@@ -37,7 +37,7 @@
       "image": "ghcr.io/krateoplatformops/provider-openstack",
       "name": "provider openstack",
       "description": "Infrastructure provider for OpenStack",
-      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/placeholder.svg",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/openstack.svg",
       "maintainer": "",
       "version": "v0.1.3",
       "source": "https://github.com/krateoplatformops/provider-openstack",
