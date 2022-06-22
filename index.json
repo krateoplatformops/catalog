@@ -94,7 +94,7 @@
       "description": "",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/bitbucket.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v0.2.1",
+      "version": "v0.2.2",
       "source": "https://github.com/krateoplatformops/provider-bitbucket",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-bitbucket.yaml"
