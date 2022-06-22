@@ -28,7 +28,7 @@
       "description": "lorem ipsum...",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/git.svg",
       "maintainer": "",
-      "version": "v0.3.10",
+      "version": "v0.3.11",
       "source": "https://github.com/krateoplatformops/provider-git",
       "cli": true,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-git.yaml"
