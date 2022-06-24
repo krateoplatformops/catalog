@@ -3,7 +3,7 @@
     {
       "image": "registry.upbound.io/crossplane/provider-helm",
       "name": "provider helm",
-      "description": "lorem ipsum...",
+      "description": "This provider is a Crossplane Provider that enables deployment and management of Helm Releases on Kubernetes clusters typically provisioned by Crossplane.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/helm.svg",
       "maintainer": "",
       "version": "v0.10.0",
@@ -14,7 +14,7 @@
     {
       "image": "registry.upbound.io/crossplane/provider-kubernetes",
       "name": "provider kubernetes",
-      "description": "lorem ipsum...",
+      "description": "This provider is a Crossplane Provider that enables deployment and management of arbitrary Kubernetes objects on clusters typically provisioned by Crossplane.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/kubernetes.svg",
       "maintainer": "",
       "version": "v0.3.0",
@@ -25,9 +25,9 @@
     {
       "image": "ghcr.io/krateoplatformops/provider-git",
       "name": "provider git",
-      "description": "lorem ipsum...",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that clones one remote git repository over another one.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/git.svg",
-      "maintainer": "",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "v0.3.15",
       "source": "https://github.com/krateoplatformops/provider-git",
       "cli": true,
@@ -38,7 +38,7 @@
       "name": "provider openstack",
       "description": "Infrastructure provider for OpenStack",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/openstack.svg",
-      "maintainer": "",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "v0.1.3",
       "source": "https://github.com/krateoplatformops/provider-openstack",
       "cli": false,
@@ -47,9 +47,9 @@
     {
       "image": "ghcr.io/krateoplatformops/provider-argocd-token",
       "name": "provider argocd token",
-      "description": "lorem ipsum...",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates API tokens for specific ArgoCD users.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/argocd.svg",
-      "maintainer": "",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "0.2.2",
       "source": "https://github.com/krateoplatformops/provider-argocd-token",
       "cli": true,
@@ -58,7 +58,7 @@
     {
       "image": "xpkg.upbound.io/crossplane/provider-aws",
       "name": "provider aws",
-      "description": "lorem ipsum...",
+      "description": "This provider-aws repository is the Crossplane infrastructure provider for Amazon Web Services (AWS).",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/aws.svg",
       "maintainer": "",
       "version": "v0.24.1",
@@ -80,7 +80,7 @@
     {
       "image": "ghcr.io/krateoplatformops/provider-github",
       "name": "provider github",
-      "description": "",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates a GitHub repository.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/github.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "v0.1.8",
@@ -91,7 +91,7 @@
     {
       "image": "ghcr.io/krateoplatformops/provider-bitbucket",
       "name": "provider bitbucket",
-      "description": "",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates a Bitbucket repository.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/bitbucket.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
       "version": "v0.2.3",
