@@ -86,7 +86,7 @@
       "version": "v0.1.8",
       "source": "https://github.com/krateoplatformops/provider-github",
       "cli": false,
-      "package": "https://raw.githubusercontent.com/krateoplatformops/provider-github/main/examples/provider.yaml"
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-github.yaml"
     },
     {
       "image": "ghcr.io/krateoplatformops/provider-bitbucket",
