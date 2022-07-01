@@ -4,3 +4,4 @@ metadata:
   name: provider-kubernetes
 spec:
   package: registry.upbound.io/crossplane/provider-kubernetes:VERSION
+  packagePullPolicy: IfNotPresent

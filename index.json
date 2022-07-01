@@ -53,7 +53,7 @@
       "version": "0.2.2",
       "source": "https://github.com/krateoplatformops/provider-argocd-token",
       "cli": true,
-      "package": "https://raw.githubusercontent.com/krateoplatformops/provider-argocd-token/main/examples/provider.yaml"
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-argocd-token.yaml"
     },
     {
       "image": "xpkg.upbound.io/crossplane/provider-aws",

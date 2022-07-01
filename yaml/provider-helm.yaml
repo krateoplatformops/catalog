@@ -4,3 +4,4 @@ metadata:
   name: provider-helm
 spec:
   package: registry.upbound.io/crossplane/provider-helm:VERSION
+  packagePullPolicy: IfNotPresent
