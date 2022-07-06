@@ -5,4 +5,4 @@ metadata:
   name: provider-github
 spec:
   package: "ghcr.io/krateoplatformops/provider-github:VERSION"
-  packagePullPolicy: IfNotPresent
+  packagePullPolicy: Always
