@@ -67,13 +67,10 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-aws.yaml",
       "secret": [
         {
-          "type": "string",
+          "type": "textarea",
           "name": "credentials",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-        },
-        {
-          "type": "string",
-          "name": "accountPassword"
+          "description": "AWS Credentials",
+          "placeholder": "[default]\nws_access_key_id = xxx\naws_secret_access_key = yyy"
         }
       ]
     },
