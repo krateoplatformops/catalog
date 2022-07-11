@@ -95,6 +95,17 @@
       "source": "https://github.com/krateoplatformops/provider-bitbucket",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-bitbucket.yaml"
+    },
+    {
+      "image": "ghcr.io/krateoplatformops/provider-typeform",
+      "name": "provider typeform",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates a survey on Typeform.",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/typeform.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "beta",
+      "source": "https://github.com/krateoplatformops/provider-typeform",
+      "cli": false,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-typeform.yaml"
     }
   ]
 }
