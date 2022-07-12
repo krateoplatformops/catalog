@@ -106,6 +106,17 @@
       "source": "https://github.com/krateoplatformops/provider-typeform",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-typeform.yaml"
+    },
+    {
+      "image": "ghcr.io/krateoplatformops/provider-vsphere",
+      "name": "provider vsphere",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates a VM on VSphere.",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/vsphere.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "v0.2.1",
+      "source": "https://github.com/krateoplatformops/provider-vsphere",
+      "cli": false,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-vsphere.yaml"
     }
   ]
 }
