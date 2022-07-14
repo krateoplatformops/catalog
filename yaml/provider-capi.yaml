@@ -1,0 +1,7 @@
+apiVersion: pkg.crossplane.io/v1
+kind: Provider
+metadata:
+  name: provider-capi
+spec:
+  package: 'ghcr.io/krateoplatformops/provider-capi:VERSION'
+  packagePullPolicy: IfNotPresent
