@@ -45,6 +45,17 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-openstack.yaml"
     },
     {
+      "image": "ghcr.io/krateoplatformops/provider-capi",
+      "name": "provider capi",
+      "description": "Infrastructure provider for CAPI",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/capi.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "v0.1.0",
+      "source": "https://github.com/krateoplatformops/provider-capi",
+      "cli": false,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-capi.yaml"
+    },
+    {
       "image": "ghcr.io/krateoplatformops/provider-argocd-token",
       "name": "provider argocd token",
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates API tokens for specific ArgoCD users.",
