@@ -50,7 +50,7 @@
       "description": "Infrastructure provider for CAPI",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/capi.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v0.1.1",
+      "version": "v0.1.2",
       "source": "https://github.com/krateoplatformops/provider-capi",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-capi.yaml"
