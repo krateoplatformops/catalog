@@ -91,7 +91,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a GitHub repository.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/github.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.0.0",
+      "version": "v1.1.0",
       "source": "https://github.com/krateoplatformops/provider-github",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-github.yaml"
