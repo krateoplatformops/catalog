@@ -61,7 +61,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates API tokens for specific ArgoCD users.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/argocd.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.0.0",
+      "version": "v1.2.0",
       "source": "https://github.com/krateoplatformops/provider-argocd-token",
       "cli": true,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-argocd-token.yaml"
