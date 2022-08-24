@@ -113,7 +113,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a survey on Typeform.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/typeform.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v0.1.0",
+      "version": "v0.3.0",
       "source": "https://github.com/krateoplatformops/provider-typeform",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-typeform.yaml"
