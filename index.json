@@ -39,7 +39,7 @@
       "description": "Infrastructure provider for OpenStack",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/openstack.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.0.0",
+      "version": "v1.1.0",
       "source": "https://github.com/krateoplatformops/provider-openstack",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-openstack.yaml"
