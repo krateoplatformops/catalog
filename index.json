@@ -28,7 +28,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that clones one remote git repository over another one.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/git.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.1.2",
+      "version": "v1.2.0",
       "source": "https://github.com/krateoplatformops/provider-git",
       "cli": true,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-git.yaml"
