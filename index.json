@@ -119,6 +119,17 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-typeform.yaml"
     },
     {
+      "image": "ghcr.io/krateoplatformops/provider-concierge",
+      "name": "provider concierge",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that manage Concierge.",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/concierge.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "v0.1.0",
+      "source": "https://github.com/krateoplatformops/provider-concierge",
+      "cli": false,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-concierge.yaml"
+    },
+    {
       "image": "ghcr.io/krateoplatformops/provider-vsphere",
       "name": "provider vsphere",
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a VM on VSphere.",
