@@ -102,7 +102,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a Bitbucket repository.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/bitbucket.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.1.0",
+      "version": "v1.2.1",
       "source": "https://github.com/krateoplatformops/provider-bitbucket",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-bitbucket.yaml"
