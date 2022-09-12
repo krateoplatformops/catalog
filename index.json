@@ -124,7 +124,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that manage Concierge.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/concierge.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v0.1.0",
+      "version": "v0.3.1",
       "source": "https://github.com/krateoplatformops/provider-concierge",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-concierge.yaml"
