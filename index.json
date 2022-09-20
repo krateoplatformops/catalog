@@ -130,6 +130,17 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-concierge.yaml"
     },
     {
+      "image": "ghcr.io/krateoplatformops/provider-jenkins",
+      "name": "provider jenkins",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that manage Jenkins.",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/jenkins.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "v0.2.0",
+      "source": "https://github.com/krateoplatformops/provider-jenkins",
+      "cli": false,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-jenkins.yaml"
+    },
+    {
       "image": "ghcr.io/krateoplatformops/provider-vsphere",
       "name": "provider vsphere",
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a VM on VSphere.",
