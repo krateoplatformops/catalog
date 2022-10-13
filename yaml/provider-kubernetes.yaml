@@ -3,5 +3,5 @@ kind: Provider
 metadata:
   name: provider-kubernetes
 spec:
-  package: registry.upbound.io/crossplane/provider-kubernetes:VERSION
+  package: xpkg.upbound.io/crossplane-contrib/provider-kubernetes:VERSION
   packagePullPolicy: IfNotPresent
