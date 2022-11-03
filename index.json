@@ -56,6 +56,17 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-capi.yaml"
     },
     {
+      "image": "ghcr.io/krateoplatformops/provider-argocd-endpoint",
+      "name": "provider argocd endpoint",
+      "description": "This is a Kubernetes Operator (Crossplane provider) that creates API tokens for specific ArgoCD users.",
+      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/argocd.svg",
+      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
+      "version": "v1.0.0",
+      "source": "https://github.com/krateoplatformops/provider-argocd-endpoint",
+      "cli": true,
+      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-argocd-endpoint.yaml"
+    },
+    {
       "image": "ghcr.io/krateoplatformops/provider-argocd-token",
       "name": "provider argocd token",
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates API tokens for specific ArgoCD users.",
