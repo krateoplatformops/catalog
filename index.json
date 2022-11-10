@@ -119,17 +119,6 @@
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-typeform.yaml"
     },
     {
-      "image": "ghcr.io/krateoplatformops/provider-concierge",
-      "name": "provider concierge",
-      "description": "This is a Kubernetes Operator (Crossplane provider) that manage Concierge.",
-      "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/concierge.svg",
-      "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v0.3.1",
-      "source": "https://github.com/krateoplatformops/provider-concierge",
-      "cli": false,
-      "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-concierge.yaml"
-    },
-    {
       "image": "ghcr.io/krateoplatformops/provider-jenkins",
       "name": "provider jenkins",
       "description": "This is a Kubernetes Operator (Crossplane provider) that manage Jenkins.",
