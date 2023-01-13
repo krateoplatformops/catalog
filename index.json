@@ -6,7 +6,7 @@
       "description": "This provider is a Crossplane Provider that enables deployment and management of Helm Releases on Kubernetes clusters typically provisioned by Crossplane.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/helm.svg",
       "maintainer": "Crossplane Maintainers <info@crossplane.io>",
-      "version": "v0.12.0",
+      "version": "v0.13.0",
       "source": "https://github.com/crossplane-contrib/provider-helm",
       "cli": true,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-helm.yaml"
@@ -17,7 +17,7 @@
       "description": "This provider is a Crossplane Provider that enables deployment and management of arbitrary Kubernetes objects on clusters typically provisioned by Crossplane.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/kubernetes.svg",
       "maintainer": "Crossplane Maintainers <info@crossplane.io>",
-      "version": "v0.5.0",
+      "version": "v0.6.0",
       "source": "https://github.com/crossplane-contrib/provider-kubernetes",
       "cli": true,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-kubernetes.yaml"
@@ -102,7 +102,7 @@
       "description": "This is a Kubernetes Operator (Crossplane provider) that creates a Bitbucket repository.",
       "icon": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/icons/bitbucket.svg",
       "maintainer": "Luca Sepe <luca.sepe@kiratech.it>",
-      "version": "v1.2.1",
+      "version": "v1.2.2",
       "source": "https://github.com/krateoplatformops/provider-bitbucket",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-bitbucket.yaml"
