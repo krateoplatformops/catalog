@@ -95,7 +95,14 @@
       "source": "https://github.com/crossplane-contrib/provider-azure",
       "cli": false,
       "package": "https://raw.githubusercontent.com/krateoplatformops/catalog/main/yaml/provider-azure.yaml",
-      "secret": []
+      "secret": [
+        {
+          "type": "textarea",
+          "name": "credentials",
+          "description": "Azure Credentials",
+          "placeholder": "{\n\"clientId\": \"xxx\",\"clientSecret\": \"yyy\",\n\"subscriptionId\": \"\",\n\"tenantId\": \"zzz\",\n\"activeDirectoryEndpointUrl\": \"https://login.microsoftonline.com\",\n\"resourceManagerEndpointUrl\": \"https://management.azure.com/\",\n\"activeDirectoryGraphResourceId\": \"https://graph.windows.net/\",\n\"sqlManagementEndpointUrl\": \"https://management.core.windows.net:8443/\",\n\"galleryEndpointUrl\": \"https://gallery.azure.com/\",\n\"managementEndpointUrl\": \"https://management.core.windows.net/\"\n}"
+        }
+      ]
     },
     {
       "image": "ghcr.io/krateoplatformops/provider-github",
