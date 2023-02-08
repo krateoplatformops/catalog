@@ -3,5 +3,5 @@ kind: Provider
 metadata:
   name: provider-azure
 spec:
-  package: xpkg.upbound.io/crossplane-contrib/provider-azure:VERSION
+  package: xpkg.upbound.io/upbound/provider-azure:VERSION
   packagePullPolicy: IfNotPresent
